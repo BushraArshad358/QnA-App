@@ -8,29 +8,33 @@ Welcome to our QnA app! This application is designed to make finding answers to 
 
 **FireBase Configuration**
 
-In firebase.js file add your firebase configuration object. The steps to obtain your object are:
+1.In firebase.js file add your firebase configuration object. The steps to obtain your object are:
 
-Go to https://firebase.google.com/ and select “Get started”
+2.Go to https://firebase.google.com/ and select “Get started”
 
-Create a new project ( a three-step process for creating project)
+3.Create a new project ( a three-step process for creating project)
 
-Select "Add Firebase to your app" by clicking either Android/iOS/Web/Unity/flutter
+4.Select "Add Firebase to your app" by clicking either Android/iOS/Web/Unity/flutter
 
-Add your project name and get creditional
+5.Add your project name and get creditional
 
 **How to Run it?**
 
--Use git clone [repository_url] to clone the repository to your local machine or simply download the zip.
+1.Use git clone for cloning the repository to your local machine or simply download and extract the zip.
 
--Use cd [project_directory] to change into the project directory.
+2.Use cd [project_directory] to change into the project directory.
 
--Install Expo.
+3.Run npm install to install the necessary dependencies for the project.
 
--Run npm install to install the necessary dependencies for the project.
+4. Run command "npm install @tensorflow/tfjs @tensorflow-models/qna"
 
--Run npx expo start to start the development server.
+5. Run command "npm install @tensorflow/tfjs @tensorflow/tfjs-react-native"
+   
+6. Run command "npm install @react-navigation/native @react-navigation/bottom-tabs"
 
--Using Expo Go scan the code or enter url manually.
+7. Run npx expo start to start the development server.
 
--Once the app is running, explore its features, ask questions, and find answers with ease.
+8. Using Expo Go scan the code or enter url manually.Once the app is running, explore its features, ask questions, and find answers with ease.
+
+
 
