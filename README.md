@@ -20,21 +20,21 @@ Welcome to our QnA app! This application is designed to make finding answers to 
 
 **How to Run it?**
 
-1.Use git clone for cloning the repository to your local machine or simply download and extract the zip.
+-Use git clone for cloning the repository to your local machine or simply download and extract the zip.
 
-2.Use cd [project_directory] to change into the project directory.
+-Use cd [project_directory] to change into the project directory.
 
-3.Run npm install to install the necessary dependencies for the project.
+-Run npm install to install the necessary dependencies for the project.
 
-4. Run command "npm install @tensorflow/tfjs @tensorflow-models/qna"
+-Run command "npm install @tensorflow/tfjs @tensorflow-models/qna"
 
-5. Run command "npm install @tensorflow/tfjs @tensorflow/tfjs-react-native"
-   
-6. Run command "npm install @react-navigation/native @react-navigation/bottom-tabs"
+-Run command "npm install @tensorflow/tfjs @tensorflow/tfjs-react-native"
 
-7. Run npx expo start to start the development server.
+-Run command "npm install @react-navigation/native @react-navigation/bottom-tabs"
 
-8. Using Expo Go scan the code or enter url manually.Once the app is running, explore its features, ask questions, and find answers with ease.
+-Run npx expo start to start the development server.
+
+-Using Expo Go scan the code or enter url manually.Once the app is running, explore its features, ask questions, and find answers with ease.
 
 
 
